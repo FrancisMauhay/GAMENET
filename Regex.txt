@@ -1,0 +1,3 @@
+"rizz|skibidi|brainrot|Regex|yes"
+
+emote: /tumbling
